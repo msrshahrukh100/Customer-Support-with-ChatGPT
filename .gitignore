@@ -1,0 +1,3 @@
+frontend/chatgptui/node_modules
+backend/env
+backend/.env
